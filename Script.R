@@ -308,3 +308,4 @@ summary(model3)
 #beta_3 = -0.2 (если sexM)
 #cor(beta_1i, beta_2i) = 0.54
 
+
